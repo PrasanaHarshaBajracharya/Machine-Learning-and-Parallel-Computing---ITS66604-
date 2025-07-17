@@ -1,3 +1,5 @@
 # Machine-Learning-and-Parallel-Computing---ITS66604-
 
 The present project is aimed at coming up with a scalable machine learning approach to predict flood risk in India based on a geographical and hydrological data set. Models used in the system are Random Forest and LSTM and that parallel computing approach (CPU multiprocessing and GPU acceleration) is utilized through scikit-learn, TensorFlow, and Joblib. The benchmarking of parallel execution work showed that parallel execution added time to the training and the inference, but did not contribute to improved accuracy, and thus should be optimized or hardware improved. Architecture was informed by ethical considerations, including data privacy and elimination of bias, and there was support of real-time monitoring and the integration of emergency response. The project takes account of clarity of documentation, reproducibility, and professional communication and it reflects on the society resilience objectives.
+
+Dateset link = https://www.kaggle.com/datasets/s3programmer/flood-risk-in-india 
